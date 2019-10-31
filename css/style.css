@@ -1,8 +1,20 @@
 .nav-wrapper {
     background-color: #292e33;
-    
 }
 
-.wholeCard {
+.userInput {
+    display: flex;
+    justify-content: center;
+}
+
+.submitBtn {
+    display: flex;
+    justify-content: center;
     align-items: center;
+    
+    background-color: #292e33;
+}
+
+.sdPadres {
+    height: 20%;
 }
